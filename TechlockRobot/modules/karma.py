@@ -99,7 +99,7 @@ async def command_karma(_, message):
             await m.edit("No karma in DB for this chat.")
             return
         msg = f"**Karma list of {message.chat.title}:- **\n"
-        limit = 0
+        limit = 10
         karma_dicc = {}
         for i in karma:
             user_id = await alpha_to_int(i)
