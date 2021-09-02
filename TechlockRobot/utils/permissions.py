@@ -5,7 +5,7 @@ from pyrogram.types import Message
 
 from TechlockRobot import DRAGONS
 from TechlockRobot.utils.pluginhelp import member_permissions
-from TechlockRobot import pbot as app
+from pyrogram import Client as app
 
 async def authorised(func, subFunc2, client, message, *args, **kwargs):
     chatID = message.chat.id
