@@ -45,7 +45,7 @@ class Config(object):
     MONGO_DB_URI = "mongodb+srv://SATISH:SATISH123@cluster0.3haan.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     MONGO_PORT = 27017
     REDIS_URL = "redis://SATISH1234:Satish1234$@redis-10438.c10.us-east-1-3.ec2.cloud.redislabs.com:10438/SATISH1234"
-    STRING_SESSION = "1AZWarzwBu4uAT_kLgFCGNdVpr2gB3lxbrcsYh8zNVVMDaKAJLSzPI49bIyADTwgnjRtox21aDhGUZqxQ96-xaH7mXpMM0fU9O-GKZc-w9Nj7_RNW2N8i40Kar11QMl3BUyfdu5dGKtcq5BP6AmqiTYS1jkMp9qic0TT_3NTffTlJQQDAAdOLRXaFkNRbDoUIdywP3HPEFRQIqvGH_vCEZIXXEvh_rve1i8T4lZAN115ezPcNTNUrC8iWeiOLVOMl9PXTcbxA73FKIKCTm9XTAks5CAmBbVB2FbL6OvkKCLnjMHI7SxO9rPhz7DXani-UdKW78Pl-UL3AmbkrsVFEwC6YfjQzg2c="
+    STRING_SESSION = "1AZWarzYBuwnFf1Yajr_Ta0CZPbf5rA_YGpQFlKTJQiTlNv3eM5oi3biDp8zRQ4jVqdXzrnMZDYqRsBWdR3VkofwJjrqBZi_MSaaAo1Y9yTNpSfrK6PbWIYlirtvyFVMfycpIFvZUdn8pxBIrfa8ko4JthXVzHx9Xbh-qGp9T7TOnmS1z6mNifmvM7dwuywiyZeA1jpHrjASbSyNpga-INHEYAKGUOqHtwxGiVjc4pQImpPOVh1N5PL1hNpgJhVgFAI2buUTKDqVOyAVUNtffDx0V7hZBuOMoaj_n5x8iBK82OuXyIF5W8JeM503WtcpIsL1E2EYWtg3mwHYtdfnJKxkj_9CVfN8="
     TEMP_DOWNLOAD_DIRECTORY = "./"
     SPAMWATCH_API = "Rz_AQyrEv7IE8sCwEgKtrLqAhia~ICOPZIo2y_B_lXewOHodbg8O2jXwebllUUhV"  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
